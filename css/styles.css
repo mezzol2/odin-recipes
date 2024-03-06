@@ -1,0 +1,19 @@
+.title  {
+    color: rgb(10, 233, 47);
+    font-size: 50px;
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    text-align: center;
+    
+}
+
+.link {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    background-color: brown;
+    color: rgb(250, 182, 157);
+}
